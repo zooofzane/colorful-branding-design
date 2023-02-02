@@ -1,0 +1,48 @@
+/* @font-face {
+    font-family: VTCSpikeTrial;
+    src: url(VTCSpikeTrial-Bold.woff2) format('woff2'),
+} */
+
+.b-canvas {
+    position: absolute;
+}
+
+#c {
+    left: 125px;
+    top: 242px;
+}
+
+#o1 {
+    left:213px;
+    top: 41px;
+}
+
+#l1 {
+    left: 280px;
+    top: 340px;
+}
+
+#o2 {
+    left: 340px;
+    top: 250px;
+}
+
+#r {
+    left: 410px;
+    top: 290px
+}
+
+#f {
+    left: 460px;
+    top: 160px
+}
+
+#u {
+    left: 520px;
+    top: 220px
+}
+
+#l2 {
+    left: 630px;
+    top: 340px
+}
